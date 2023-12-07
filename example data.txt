@@ -1,0 +1,9 @@
+Name,Dexterity
+Alex,12
+Becca,15
+Chris,9
+Daisy,14
+NPC1,8
+NPC2,16
+NPC3,10
+NPC4,13
